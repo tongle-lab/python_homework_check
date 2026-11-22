@@ -1,0 +1,135 @@
+[
+  {
+    "test_case": 1,
+    "input": "",
+    "expected": "",
+    "actual": "",
+    "passed": true
+  },
+  {
+    "test_case": 2,
+    "input": "a",
+    "expected": "a",
+    "actual": "a",
+    "passed": true
+  },
+  {
+    "test_case": 3,
+    "input": "aa",
+    "expected": "aa",
+    "actual": "aa",
+    "passed": true
+  },
+  {
+    "test_case": 4,
+    "input": "ab",
+    "expected": "a",
+    "actual": "a",
+    "passed": true
+  },
+  {
+    "test_case": 5,
+    "input": "babad",
+    "expected": "bab",
+    "actual": "bab",
+    "passed": true
+  },
+  {
+    "test_case": 6,
+    "input": "cbbd",
+    "expected": "bb",
+    "actual": "bb",
+    "passed": true
+  },
+  {
+    "test_case": 7,
+    "input": "abcba",
+    "expected": "abcba",
+    "actual": "abcba",
+    "passed": true
+  },
+  {
+    "test_case": 8,
+    "input": "abcdcba",
+    "expected": "abcdcba",
+    "actual": "abcdcba",
+    "passed": true
+  },
+  {
+    "test_case": 9,
+    "input": "abccba",
+    "expected": "abccba",
+    "actual": "abccba",
+    "passed": true
+  },
+  {
+    "test_case": 10,
+    "input": "abcdefg",
+    "expected": "a",
+    "actual": "a",
+    "passed": true
+  },
+  {
+    "test_case": 11,
+    "input": "aaaaaa",
+    "expected": "aaaaaa",
+    "actual": "aaaaaa",
+    "passed": true
+  },
+  {
+    "test_case": 12,
+    "input": "abacdfgdcaba",
+    "expected": "aba",
+    "actual": "aba",
+    "passed": true
+  },
+  {
+    "test_case": 13,
+    "input": "racecar",
+    "expected": "racecar",
+    "actual": "racecar",
+    "passed": true
+  },
+  {
+    "test_case": 14,
+    "input": "noon",
+    "expected": "noon",
+    "actual": "noon",
+    "passed": true
+  },
+  {
+    "test_case": 15,
+    "input": "level",
+    "expected": "level",
+    "actual": "level",
+    "passed": true
+  },
+  {
+    "test_case": 16,
+    "input": "abacaba",
+    "expected": "abacaba",
+    "actual": "abacaba",
+    "passed": true
+  },
+  {
+    "test_case": 17,
+    "input": "abcdeedcba",
+    "expected": "abcdeedcba",
+    "actual": "abcdeedcba",
+    "passed": true
+  },
+  {
+    "test_case": 18,
+    "input": "aab",
+    "expected": "aa",
+    "actual": "aa",
+    "passed": true
+  },
+  {
+    "test_case": 19,
+    "input": "baa",
+    "expected": "aa",
+    "actual": "aa",
+    "passed": true
+  }
+]
